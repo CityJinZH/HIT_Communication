@@ -40,8 +40,7 @@
 
 - **窗口大小**: 均衡器输入窗口的大小对性能至关重要。太小则包含的信息不足以消除ISI，太大则会引入更多噪声并增加计算复杂度。
 
-channel_equalization/
-
+channel_equalization/<br>
 ├── main.py                     # 主程序入口，负责流程控制、用户选择、结果绘图<br>
 ├── config.py                   # 配置文件，存放各种超参数和设置<br>
 ├── data_generator.py           # 数据生成模块 (BPSK调制, 信道模拟, 加噪声)<br>
