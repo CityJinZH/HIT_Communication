@@ -8,9 +8,10 @@ This repository contains cutting-edge research on deep learning (DL) applied to 
 1. **DL for Channel Coding**
    - SCL/BP decoder implementations with complexity analysis 
    - Attention-based autoencoders for nonlinear channel compensation 
-2. **Underwater Scenarios**
+2. **Underwater Acoustic Communication**
    - Hybrid DL-model-based approaches for Doppler-spread mitigation 
    - Generative adversarial networks (GANs) for sparse channel estimation 
 3. **Satellite Applications**
    - Transformer-based adaptive coding and modulation (ACM)
    - Federated learning frameworks for distributed satellite systems 
+
