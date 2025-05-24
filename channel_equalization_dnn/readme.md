@@ -42,14 +42,19 @@
 
 channel_equalization/
 
-├── main.py                     # 主程序入口，负责流程控制、用户选择、结果绘图
-
+├── main.py                     # 主程序入口，负责流程控制、用户选择、结果绘图<br>
 ├── config.py                   # 配置文件，存放各种超参数和设置
+
 ├── data_generator.py           # 数据生成模块 (BPSK调制, 信道模拟, 加噪声)
+
 ├── dnn_tf_equalizer.py         # 基于TensorFlow的DNN均衡器实现
+
 ├── dnn_numpy_equalizer.py      # 基于NumPy的DNN均衡器实现 (手动搭建)
+
 ├── lms_equalizer.py            # LMS均衡算法实现
+
 ├── metrics.py                  # 性能评估模块 (BER计算, 绘图)
+
 └── README.md                   # 程序说明 
 
   **如何运行：**
