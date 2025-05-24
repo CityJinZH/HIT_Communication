@@ -65,6 +65,10 @@ channel_equalization/<br>
        
       具体可见: requirements.txt
 
+       ```
+       pip install -r requirements.txt 
+       ```
+       
   2. **执行主程序:**
 
        ```
