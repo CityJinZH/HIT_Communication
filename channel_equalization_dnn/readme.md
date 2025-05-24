@@ -66,7 +66,12 @@ channel_equalization/<br>
       具体可见: requirements.txt
 
        ```
-       pip install -r requirements.txt 
+       pip install -r requirements.txt
+       若安装速度慢，可使用国内源
+       -i https://pypi.tuna.tsinghua.edu.cn/simple  --trusted-host
+       -i https://mirrors.aliyun.com/pypi/simple  --trusted-host
+       -i https://mirrors.cloud.tencent.com/pypi/simple  --trusted-host
+       -i https://mirrors.huaweicloud.com/repository/pypi/simple  --trusted-host  
        ```
        
   2. **执行主程序:**
