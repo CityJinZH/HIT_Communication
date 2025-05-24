@@ -15,3 +15,8 @@ This repository contains cutting-edge research on deep learning (DL) applied to 
    - Transformer-based adaptive coding and modulation (ACM)
    - Federated learning frameworks for distributed satellite systems 
 
+## ⚙️ Dependencies
+pip install -r requirements.txt  
+
+## 📜 License
+MIT License. See LICENSE for details.
