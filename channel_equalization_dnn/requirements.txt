@@ -4,5 +4,5 @@ matplotlib==3.3.4
 scipy==1.7.3
 pillow==9.5.0
 scikit-learn==1.0.2
-sqlite==3.45.3
-tqdm==4.67.1
+sqlite
+tqdm
