@@ -54,6 +54,13 @@ channel_equalization/<br>
 
   1. **环境准备**:
 
+     - 安装anaconda
+       官网网址：https://www.anaconda.com/
+       镜像网址：https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
+
+     - 配置系统环境 path
+     - 验证conda --version 
+
      - 安装 Python (推荐3.6-3.8  本项目使用3.7.16)。
 
      - 安装必要的库:
