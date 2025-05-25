@@ -55,7 +55,7 @@ channel_equalization/<br>
   1. **环境准备**:
 
      - 安装anaconda
-       官网网址：https://www.anaconda.com/
+       官网网址：https://www.anaconda.com/download/success
        镜像网址：https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
 
      - 配置系统环境 path
